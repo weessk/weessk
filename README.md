@@ -1,5 +1,7 @@
 ## 👋 Hi, I'm weessk
+
 ## 🚀 Currently Working With
+
 <table>
   <tr>
     <td align="center">
@@ -27,7 +29,7 @@
       <br/>C
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nasm/nasm-original.svg" width="60" alt="Assembly Logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/masm/masm-original.svg" width="60" alt="ASM Logo"/>
       <br/>Assembly
     </td>
     <td align="center">
@@ -36,20 +38,30 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ## 🕷 Malware & Exploit Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/Offensive%20Security-Tools-critical?style=for-the-badge&logo=kalilinux&logoColor=white&color=ff003c"/>
   <img src="https://img.shields.io/badge/Reverse%20Engineering-IDA%20Pro-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAT%20Development-Stealth%20%26%20Evasion-informational?style=for-the-badge"/>
 </p>
+
 - Custom **RATs** & C2 frameworks  
 - **Stealth / AV evasion** techniques  
 - **Persistence** & startup hooks  
 - **Payload engineering** for controlled environments  
 - **Reverse engineering** & exploit prototyping  
+
 ---
+
 ## 📊 GitHub Stats
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weessk&show_icons=true&theme=dark&v=1)](https://github.com/weessk)
+
 ## 📈 Top Languages
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dark&v=1)](https://github.com/weessk)
+
