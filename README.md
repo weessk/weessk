@@ -81,8 +81,8 @@ interests:
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/weessk">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weessk&repo=YOUR_BEST_REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
+  <a href="https://github.com/weessk/GoRat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=weessk&repo=GoRat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" />
   </a>
 </div>
 
