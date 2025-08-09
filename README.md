@@ -6,7 +6,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="60" alt="C"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" alt="Golang"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F373445%2Fassembly&psig=AOvVaw3IA9xZc2FBq_25KcSJeBFx&ust=1754850009844000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIi2hPGr_o4DFQAAAAAdAAAAABAE" width="60" alt="Assembly"/>
+  <img src=""https://media.discordapp.net/attachments/1367579821303009402/1403805319615877210/assembly.png?ex=6898e315&is=68979195&hm=740c767bc8fea6dc7440cd148332f8295d5b102963b7e09f270c4df03e73c1b2&=&format=webp&quality=lossless&width=666&height=666 width="60" alt="Assembly"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" alt="C#"/>
