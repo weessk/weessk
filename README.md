@@ -1,66 +1,55 @@
-# weessk
-
-## Tech Stack
+## 👋 Hi, I'm weessk
+## 🚀 Currently Working With
 <table>
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="60" alt="C++ Logo"/>
       <br/>C++
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" alt="Go"/>
-      <br/>Go
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Go_gopher_favicon.svg" width="60" alt="Golang Logo"/>
+      <br/>Golang
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" width="60" alt="C# Logo"/>
       <br/>C#
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" alt="Java Logo"/>
       <br/>Java
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python Logo"/>
       <br/>Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="60" alt="C Logo"/>
       <br/>C
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/file-icons/icons/master/svg/Assembly.svg" width="50" alt="Assembly"/>
-      <br/>ASM
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nasm/nasm-original.svg" width="60" alt="Assembly Logo"/>
+      <br/>Assembly
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="Frontend"/>
-      <br/>Web
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" alt="Frontend Logo"/>
+      <br/>Frontend
     </td>
   </tr>
 </table>
-
-## Security Research & Development
-
-```
-[REDACTED] Custom RAT development & C2 infrastructure
-[REDACTED] Advanced AV evasion & anti-analysis techniques  
-[REDACTED] Windows internals exploitation & persistence
-[REDACTED] Payload engineering for red team operations
-[REDACTED] Reverse engineering & vulnerability research
-```
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OffSec-Tools-ff0000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RevEng-IDA--Ghidra-9400d3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Evasion-Techniques-2e8b57?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Payload-Engineering-ff6347?style=flat-square"/>
-</p>
-
 ---
-
+## 🕷 Malware & Exploit Development
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weessk&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats"/>
+  <img src="https://img.shields.io/badge/Offensive%20Security-Tools-critical?style=for-the-badge&logo=kalilinux&logoColor=white&color=ff003c"/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-IDA%20Pro-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAT%20Development-Stealth%20%26%20Evasion-informational?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</p>
+- Custom **RATs** & C2 frameworks  
+- **Stealth / AV evasion** techniques  
+- **Persistence** & startup hooks  
+- **Payload engineering** for controlled environments  
+- **Reverse engineering** & exploit prototyping  
+---
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weessk&show_icons=true&theme=dark&v=1)](https://github.com/weessk)
+## 📈 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dark&v=1)](https://github.com/weessk)
