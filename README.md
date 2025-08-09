@@ -29,7 +29,7 @@
       <br/>C
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/masm/masm-original.svg" width="60" alt="ASM Logo"/>
+      <img src="https://img.icons8.com/color/48/000000/assembly.png" width="60" alt="ASM Logo"/>
       <br/>Assembly
     </td>
     <td align="center">
