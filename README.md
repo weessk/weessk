@@ -65,3 +65,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weessk&layout=compact&theme=dark&v=1)](https://github.com/weessk)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=weessk&color=ff003c&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
+
