@@ -51,8 +51,6 @@
 - random reverse engineering projects (taking apart shit i dont understand)
 - contributing to public repos (rarely, social anxiety too strong)
 
-**currently listening to:** lo-fi hip hop beats to hack/relax to 🎵
-
 ---
 
 <p align="center">
