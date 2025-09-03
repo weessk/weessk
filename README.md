@@ -1,5 +1,5 @@
 ### weessk
-> just a guy who likes breaking shit, u mad bro? 🤡  
+> just a guy who enjoys ratting ppl, u mad bro? 🤡  
 > code sometimes, break things often, fix nothing 
 
 ---
