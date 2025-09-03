@@ -1,6 +1,6 @@
 ### weessk
 > just a guy who likes breaking shit, u mad bro? 🤡  
-> code sometimes, break things often, fix nothing 💀
+> code sometimes, break things often, fix nothing 
 ---
 ### > shit i pretend to know 
 <p align="center">
